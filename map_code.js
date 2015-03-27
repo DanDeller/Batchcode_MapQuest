@@ -1,3 +1,5 @@
+// use all this code inside of the MQA.EventUtil.observe() function
+
 var url   = '/search/resultsJSON/' + state + '/' + lastName + '/' + firstName,
     stash = [],
     currentState = window.state;
